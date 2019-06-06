@@ -1,0 +1,11 @@
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\bin\Debug\TCP file transfer-client.exe.config
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\bin\Debug\TCP file transfer-client.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\bin\Debug\TCP file transfer-client.pdb
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\bin\Debug\SimpleTCP.dll
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCP_file_transfer_client.Properties.Resources.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCPIP Demo.csproj.GenerateResource.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCPIP Demo.csproj.CoreCompileInputs.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCPIP Demo.csproj.CopyComplete
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCP file transfer-client.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCP file transfer-client.pdb
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP file transfer-client\obj\Debug\TCPIPDemo.Form1.resources

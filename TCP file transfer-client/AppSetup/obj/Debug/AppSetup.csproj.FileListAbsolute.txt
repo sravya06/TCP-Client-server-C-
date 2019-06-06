@@ -1,0 +1,10 @@
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\bin\Debug\AppSetup.exe.config
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\bin\Debug\AppSetup.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\bin\Debug\AppSetup.pdb
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.csprojAssemblyReference.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.Form1.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.Properties.Resources.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.csproj.GenerateResource.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.csproj.CoreCompileInputs.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\AppSetup\obj\Debug\AppSetup.pdb

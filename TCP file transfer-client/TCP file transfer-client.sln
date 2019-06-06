@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIP Demo", "TCP file transfer-client\TCPIP Demo.csproj", "{A7B7ABDC-B7BA-401F-8E6B-7CCF3427F0CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{BA0A375B-F706-441C-B126-514C78B760DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSetup", "AppSetup\AppSetup.csproj", "{DD8ADE74-87FA-4B35-9DF3-AAE909BBB39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B7ABDC-B7BA-401F-8E6B-7CCF3427F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B7ABDC-B7BA-401F-8E6B-7CCF3427F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B7ABDC-B7BA-401F-8E6B-7CCF3427F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B7ABDC-B7BA-401F-8E6B-7CCF3427F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0A375B-F706-441C-B126-514C78B760DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0A375B-F706-441C-B126-514C78B760DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0A375B-F706-441C-B126-514C78B760DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0A375B-F706-441C-B126-514C78B760DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8ADE74-87FA-4B35-9DF3-AAE909BBB39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8ADE74-87FA-4B35-9DF3-AAE909BBB39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8ADE74-87FA-4B35-9DF3-AAE909BBB39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8ADE74-87FA-4B35-9DF3-AAE909BBB39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60018ADD-FF0F-4EA7-91A3-A0DAF8F98D52}
+	EndGlobalSection
+EndGlobal

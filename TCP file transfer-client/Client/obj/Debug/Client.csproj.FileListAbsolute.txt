@@ -1,0 +1,11 @@
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\bin\Debug\Client.exe.config
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\bin\Debug\Client.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\bin\Debug\Client.pdb
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\bin\Debug\SimpleTCP.dll
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.Form1.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\Client\obj\Debug\Client.pdb
